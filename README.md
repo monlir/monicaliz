@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Monica. 
 - 👀 I’m interested in the intersection between mental health, nature, art + tech.
 - 🌱 I’m currently learning JavaScript @ Flatiron
-- 💞️ I’m looking to collaborate on beginner-friendly projects that align with my interests.
+- 💞️ I’m looking to collaborate on projects that align with my interests.
  
 
 <!---
